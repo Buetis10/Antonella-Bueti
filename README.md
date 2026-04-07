@@ -1,4 +1,4 @@
-# Antonella-Bueti
+# Antonia-Bueti
 # 💫 About Me:
 Sono una Junior Full Stack Developer con formazione in Python e Rust. Ho competenze nello sviluppo web frontend e backend utilizzando HTML, CSS, Django e MySQL.<br>Sono alla ricerca di uno stage o di una prima opportunità lavorativa che mi permetta di mettere in pratica le competenze acquisite e crescere nel campo dello sviluppo software.
 
